@@ -1,2 +1,2 @@
 # myLearning
-This repo contains java springboot code 
+This repository contains Java Spring Boot code, providing a foundational understanding of the Spring framework.
